@@ -62,16 +62,6 @@ Le projet applique une séparation stricte des concepts pour garantir la mainten
 
 ---
 
-### 📊 Statistiques GitHub (Activités & Performances)
-
-Suivi en temps réel de ma progression et de mon investissement technique:
-
-<div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=donovan057&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=false" alt="Statistiques GitHub de Donovan" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donovan057&layout=compact&theme=dracula&langs_count=6" alt="Langages les plus utilisés par Donovan"
-
----
-
 <div align="center">
  <p><i>Propulsé avec passion, du code propre et une veille constante sur le développement moderne.💻✨</i></p>
 </div>
