@@ -21,6 +21,7 @@ Les technologies et outils que je maîtrise et applique au quotidien dans mes pr
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Vite.js-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![](https://img.shields.io/badge/Responsive_Design-4CAF50?style=for-the-badge&logo=responsive-design&logoColor=white)
 
 ### ⚙️ Scripting & Logique Backend 
