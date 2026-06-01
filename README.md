@@ -63,12 +63,12 @@ Le projet applique une séparation stricte des concepts pour garantir la mainten
 
 ---
 
-<div align="center">
+<p align="center">
   <h3>Mes statistiques GitHub</h3>
   <a href="https://github.com/donovan057/github-stats-api">
-    <img src="https://github-stats-api-e7df.onrender.com/api/stats?username=donovan057" alt="GitHub Stats"/>
+    <img src="https://raw.githubusercontent.com/donovan057/github-stats-api/main/stats.svg" alt="GitHub Stats"/>
   </a>
-</div>
+</p>
 
 ---
 
