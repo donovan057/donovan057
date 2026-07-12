@@ -51,6 +51,45 @@
 
 ---
 
+<h2 align="center">📈 Apprentissage Continu & Focus</h2>
+
+<p align="center">Parce que le développement web évolue constamment, je perfectionne actuellement mes compétences sur :</p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs,react" alt="Learning Stack" />
+    <p><i>Architecture d'applications modernes & Frameworks JavaScript basés sur des composants.</i></p>
+</div>
+
+---
+
+<h2 align="center">💡 Ma philosophie du Code</h2>
+<p align="center">Les principes qui guident chaque ligne de code que j'écris :</p>
+
+<br>
+
+<table align="center" style="border-collapse: collapse; border: none; width: 100%; max-width: 900px;">
+  <tr style="border: none;">
+    <td align="center" valign="top" style="border: none; width: 33.33%; padding: 15px;">
+      <img src="https://img.icons8.com/fluent/48/000000/source-code.png" alt="Clean Code" />
+      <h3>Clean Code</h3>
+      <p style="font-size: 14px; color: #8b949e;">Écrire un code lisible, sémantique et rigoureusement structuré pour garantir sa maintenabilité et son évolutivité.</p>
+    </td>
+    <td align="center" valign="top" style="border: none; width: 33.33%; padding: 15px;">
+      <img src="https://img.icons8.com/fluent/48/000000/iphone.png" alt="Mobile-First" />
+      <h3>Mobile-First</h3>
+      <p style="font-size: 14px; color: #8b949e;">Concevoir des interfaces fluides pensées d'abod pour le mobile, assurant une expéreince utilisateur irréprochable sur tous les écrans.</p>
+    </td>
+    <td align="center" valign="top" style="border: none; width: 33.33%; padding: 15px;">
+      <img src="https://img.icons8.com/fluent/48/000000/brain.png" alt="Autonomie" />
+      <h3>Autonomie & Résolution</h3>
+      <p style="font-size: 14px; color: #8b949e;">Esprit autodidacte affûté : une forte capacité à analyser les besoins, surmonter les blacages techniques et intégrer de nouveaux outils.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
 <div align="center">
  <p><i>Propulsé avec passion, du code propre et une veille constante sur le développement moderne. 💻✨</i></p>
 </div>
