@@ -25,6 +25,20 @@
 
 </div>
 
+---
+
+<h2 align="center">⚡️ En quelques mots</h2>
+
+<div align="center">
+
+💭 **Parlons technique :** J'aime transformer des idées complexes en interfaces fluides et interactives.
+🔍 **Veille permanente :** Toujours à l'affût des nouvelles pratiques et des optimisations de performance.
+🎧 **Mon moteur :** Je code principalement en musique, concentré sur la propreté des architectures.
+
+</div>
+
+---
+
 <h2 align="center">🛠️ Stack Technique & Compétences</h2>
 
 <p align="center">Les technologies et outils que je maîtrise et applique au quotidien dans mes projets :</p>
