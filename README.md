@@ -3,9 +3,21 @@
 # 👋 Salut, moi c'est Donovan !
 ### 🚀 Développeur Web & Web Mobile Autodidacte | Passionné par les applications Dynamiques & Javascript
 
-[![GitHub Followers](https://img.shields.io/github/followers/donovan057?label=Suivre&style=for-the-badge&color=7b2cbf&logo=github)](https://github.com/donovan057)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/donovan-rinquebach/)
-[![Email](https://img.shields.io/badge/Email-Me_Contacter-ff4d6d?style=for-the-badge&logo=icloud&logoColor=white)](mailto:donovanrinquebach25@icloud.com)
+<br>
+
+<a href="https://linkedin.com/in/donovan-rinquebach/" target="_blank" style="text-decoration= none;">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" style="margin: 0 10px;" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:donovanrinquebach25@icloud.com" style="text-decoration= none;">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" style="margin: 0 10px;" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/donovan057" target="_blank" style="text-decoration= none;">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" style="margin: 0 10px;" />
+</a>
+
+<br><br>
 
 ---
 
@@ -13,25 +25,29 @@
 
 </div>
 
-## 🛠️ Stack Technique & Compétences
+<h2 align="center">🛠️ Stack Technique & Compétences</h2>
 
-Les technologies et outils que je maîtrise et applique au quotidien dans mes projets :
+<p align="center">Les technologies et outils que je maîtrise et applique au quotidien dans mes projets :</p>
 
+<br>
+
+<div align="center">
+ 
 ### 💻 Développement Frontend & Intégration 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Responsive_Design-4CAF50?style=for-the-badge&logo=responsive-design&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="Frontend Stack" />
+<br><br>
 
 ### ⚙️ Scripting & Logique Backend 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=py,lua" alt="Backend Stack" />
+<br><br>
 
 ### 🧰 Outils & Environnement Dev
-![](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Dev Tools" />
+
+</div>
 
 ---
 
