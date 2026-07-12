@@ -136,7 +136,7 @@
     <td align="center" valign="top" style="border: none; width: 33.33%; padding: 15px;">
       <img src="https://img.icons8.com/fluent/48/000000/iphone.png" alt="Mobile-First" />
       <h3>Mobile-First</h3>
-      <p style="font-size: 14px; color: #8b949e;">Concevoir des interfaces fluides pensées d'abod pour le mobile, assurant une expéreince utilisateur irréprochable sur tous les écrans.</p>
+      <p style="font-size: 14px; color: #8b949e;">Concevoir des interfaces fluides pensées d'abord pour le mobile, assurant une expérience utilisateur irréprochable sur tous les écrans.</p>
     </td>
     <td align="center" valign="top" style="border: none; width: 33.33%; padding: 15px;">
       <img src="https://img.icons8.com/fluent/48/000000/brain.png" alt="Autonomie" />
