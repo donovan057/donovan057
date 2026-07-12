@@ -75,6 +75,20 @@
 
 ---
 
+<h2 align="center">💼 Ce que je peux faire pour vous</h2>
+<p align="center">Mes services disponible en freelance / sous-traitance :</p>
+
+<div align="center">
+
+🖥️ **Intégration Web Personnalisée** : Création d'une leading pages et sites vitrines modernes, légers et responsives en HTML/CSS/Tailwind.
+📌 **Applications Dynamiques** : Développement de modules interactifs et de fonctionnalités sur mesure en JavaScript Vanilla.
+🤖 **Automatisation & Scripting** : Conception de scripts en Python pour automatiser des tâches redondantes ou structurer de la logique.
+
+</div>
+
+---
+
+
 <h2 align="center">💡 Ma philosophie du Code</h2>
 <p align="center">Les principes qui guident chaque ligne de code que j'écris :</p>
 
