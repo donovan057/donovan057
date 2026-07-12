@@ -28,14 +28,31 @@
 ---
 
 <h2 align="center">⚡️ En quelques mots</h2>
+<p align="center">Mon profil et mon approche du développement au quotidien :</p>
 
-<div align="center">
+<br>
 
-💭 **Parlons technique :** J'aime transformer des idées complexes en interfaces fluides et interactives.
-🔍 **Veille permanente :** Toujours à l'affût des nouvelles pratiques et des optimisations de performance.
-🎧 **Mon moteur :** Je code principalement en musique, concentré sur la propreté des architectures.
+<table align="center" style="border-collapse: collapse; border: none; width: 100%; max-width: 900px;">
+  <tr style="border: none;">
+    <td align="center" valign="top" style="border: none; width: 33.33%; padding: 15px;">
+      <img src="https://img.icons8.com/fluent/48/000000/console.png" alt="Technique" />
+      <h3>Vision Technique</h3>
+      <p style="font-size: 14px; color: #8b949e;">Donner vie à vos idées en transformant des concepts ou des maquettes complexes en interfaces web fluides, intuitives et interactives.</p>
+    </td>
+    <td align="center" valign="top" style="border: none; width: 33.33%; padding: 15px;">
+      <img src="https://img.icons8.com/fluent/48/000000/search.png" alt="Veille" />
+      <h3>Veille & Évolution</h3>
+      <p style="font-size: 14px; color: #8b949e;">Toujours à l'affût des standards modernes, des nouvelles pratiques et des optimisations pour garantir des performances optimales.</p>
+    </td>
+    <td align="center" valign="top" style="border: none; width: 33.33%; padding: 15px;">
+      <img src="https://img.icons8.com/fluent/48/000000/headphones.png" alt="Focus" />
+      <h3>Productivité</h3>
+      <p style="font-size: 14px; color: #8b949e;">Casque sur les oreilles et focus total sur la propreté des architectures, le respect des bonnes pratiques et la rigueur d'exécution.</p>
+    </td>
+  </tr>
+</table>
 
-</div>
+<br>
 
 ---
 
@@ -78,16 +95,31 @@
 <h2 align="center">💼 Ce que je peux faire pour vous</h2>
 <p align="center">Mes services disponible en freelance / sous-traitance :</p>
 
-<div align="center">
+<br>
 
-🖥️ **Intégration Web Personnalisée** : Création d'une leading pages et sites vitrines modernes, légers et responsives en HTML/CSS/Tailwind.
-📌 **Applications Dynamiques** : Développement de modules interactifs et de fonctionnalités sur mesure en JavaScript Vanilla.
-🤖 **Automatisation & Scripting** : Conception de scripts en Python pour automatiser des tâches redondantes ou structurer de la logique.
+<table align="center" style="border-collapse: collapse; border: none; width: 100%; max-width: 900px;">
+  <tr style="border: none;">
+    <td align="center" valign="top" style="border: none; width: 33.33%; padding: 15px;">
+      <img src="https://img.icons8.com/fluent/48/000000/monitor.png" alt="Intégration Web" />
+      <h3>Intégration Personnalisée</h3>
+      <p style="font-size: 14px; color: #8b949e;">Création de Landing Pages et de sites vitrines modernes, légers et entièrement responsives avec HTML5, CSS3 et Tailwind CSS.</p>
+    </td>
+    <td align="center" valign="top" style="border: none; width: 33.33%; padding: 15px;">
+      <img src="https://img.icons8.com/fluent/48/000000/javascript.png" alt="JavaScript" />
+      <h3>Applications Dynamiques</h3>
+      <p style="font-size: 14px; color: #8b949e;">Développement de modules interactifs, de composants dynamiques et de fonctionnalités sur mesure en JavaScript Vanilla.</p>
+    </td>
+    <td align="center" valign="top" style="border: none; width: 33.33%; padding: 15px;">
+      <img src="https://img.icons8.com/fluent/48/000000/python.png" alt="Python" />
+      <h3>Scripting & Automatisation</h3>
+      <p style="font-size: 14px; color: #8b949e;">Conception de scripts robustes en Python pour l'automatisation de tâches répétitives, le traitement de données ou la logique métier.</p>
+    </td>
+  </tr>
+</table>
 
-</div>
+<br>
 
 ---
-
 
 <h2 align="center">💡 Ma philosophie du Code</h2>
 <p align="center">Les principes qui guident chaque ligne de code que j'écris :</p>
