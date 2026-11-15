@@ -1,0 +1,38 @@
+name: Mise à jour des statistiques
+
+on:
+    schedule:
+        - cron: "0 0 * * *"
+    workflow_dispatch:
+    push: 
+        branches:
+            - main
+
+jobs: 
+    build:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+
+        steps:
+            - name: Récupération du code
+              uses: actions/checkout@v4
+
+            - name: Installation de Python
+              uses: actions/setup-python@v5
+              with:
+                python-version: '3.10'
+
+            - name: Installation des dépendances
+              run: pip install requests
+
+            - name: Exécution du script Python
+              env: 
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              run: python scripts/generate_stats.py
+
+            - name: Sauvegarde de l'image SVG
+              uses: stefanzweifel/git-auto-commit-action@v5
+              with:
+                commit_message: "🤖 Mise à jour automatique des statistiques"
+                file_pattern: stats.svg
