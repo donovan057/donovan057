@@ -48,13 +48,14 @@ def generate_svg(stats):
 
     font_family = "-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"
 
+    # J'ai remplacé les <tspan> par des balises <text> séparées pour éviter le bug "expected '>'"
     svg = f'''<svg width="450" height="195" xmlns="http://www.w3.org/2000/svg">
     <rect width="100%" height="100%" rx="10" fill="{bg_color}" stroke="{border_color}" stroke-width="1"/>
 
     <text x="25" y="35" font-family="{font_family}" font-size="16" font-weight="bold" fill="{title_color}">Mes Statistiques GitHub</text>
 
     <g transform="translate(25, 60)" font-family="{font_family}" font-size="13" fill="{text_color}">
-        <text y="0">⭐️ Étoiles reçues : <tspan font-weight="bold" fill="{accent_color}">{stats["stars"]}</tspan></text>
+        <text y="0">⭐ Étoiles reçues : <tspan font-weight="bold" fill="{accent_color}">{stats["stars"]}</tspan></text>
         <text y="25">📦 Dépôts Publics : <tspan font-weight="bold" fill="{accent_color}">{stats["repos"]}</tspan></text>
         <text y="50">👥 Followers : <tspan font-weight="bold" fill="{accent_color}">{stats["followers"]}</tspan></text>
         <text y="75">💻 Langages principaux : <tspan font-weight="bold" fill="{accent_color}">{stats["top_langs"]}</tspan></text>

@@ -207,7 +207,7 @@ Sujets que je suis activement en 2026 :
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/donovan057/donovan057@main/stats.svg" alt="Mes statistiques GitHub" />
+  <img src="https://raw.githubusercontent.com/donovan057/donovan057/main/stats.svg?v=3&sanitize=true" alt="Mes statistiques GitHub" />
 </div>
 
 ---
