@@ -2,7 +2,7 @@ import os
 import requests
 from datetime import datetime
 
-USERNAME = donovan057
+USERNAME = "donovan057"
 TOKEN = os.environ.get("GITHUB_TOKEN")
 HEADERS = {"Authorization": f"token {TOKEN}"} if TOKEN else {}
 
