@@ -207,13 +207,7 @@ Sujets que je suis activement en 2026 :
 ## 📊 Statistiques GitHub
 
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=donovan057&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=donovan057&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=donovan057&theme=tokyonight&hide_border=true)
-
+  <img src="https://cdn.jsdelivr.net/gh/donovan057/donovan057@main/stats.svg" alt="Mes statistiques GitHub" />
 </div>
 
 ---
