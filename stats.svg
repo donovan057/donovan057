@@ -1,0 +1,14 @@
+<svg width="450" height="195" wmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+    <text x="25" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="58a6ff">Mes Statistiques GitHub</text>
+
+    <g transform="translate(25, 60)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="c9d1d9">
+        <text y="0">⭐️ Étoiles reçues : <tspan font-weight="bold" fill="3fb950">0</tspan</text>
+        <text y="25">📦 Dépôts Publics : <tspan font-weight="bold" fill="3fb950">4</tspan</text>
+        <text y="50">👥 Followers : <tspan font-weight="bold" fill="3fb950">0</tspan</text>
+        <text y="75">💻 Langages principaux : <tspan font-weight="bold" fill="3fb950">JavaScript (1) • Python (1) • CSS (1)</tspan</text>
+    </g>
+
+    <text x="25" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#8b949e">Généré automatiquement le 15/11/2026</text>
+    </svg>
