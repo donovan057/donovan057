@@ -33,7 +33,7 @@
 
 Je m'appelle **Donovan**, et je construis mon parcours de développeur web avec une idée fixe : **devenir full-stack, puis en faire mon métier en freelance**.
 
-Mon parcours est un oeu particulier : je viens de l'**administration système et du scripting**, un terrain ou j'ai appris la rigueur, la méthode et le goût du travail bien fait. Aujourd'hui, je fais le grand saut vers le **développement web**, avec l'ambition de réunir les deux mondes : **le code côté client, le côté serveur, et l'infrastructure qui les fait tourner**.
+Mon parcours est un peu particulier : je viens de l'**administration système et du scripting**, un terrain ou j'ai appris la rigueur, la méthode et le goût du travail bien fait. Aujourd'hui, je fais le grand saut vers le **développement web**, avec l'ambition de réunir les deux mondes : **le code côté client, le côté serveur, et l'infrastructure qui les fait tourner**.
 
 > 💡 **Ma conviction :** un bon développeur web ne livre pas juste du code. Il livre un projet qui tourne, qui est documenté, sécurisé et que le client peut s'approprier.
 
@@ -65,7 +65,7 @@ Mon parcours est un oeu particulier : je viens de l'**administration système et
 
 ## 🗺️ Ma roadmap 2026 -> 2027
 
-Un parcours balisé, étape par étape. Pas de promesse en l'air, justde un plan clair.
+Un parcours balisé, étape par étape. Pas de promesse en l'air, juste un plan clair.
 
 | Période | Objectif | Statut |
 |---|---|---|
